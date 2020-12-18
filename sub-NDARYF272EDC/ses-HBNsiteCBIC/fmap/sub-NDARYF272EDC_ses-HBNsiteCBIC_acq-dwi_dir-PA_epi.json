@@ -30,7 +30,9 @@
         "ND"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [],
+    "IntendedFor": [
+        "ses-HBNsiteCBIC/dwi/sub-NDARYF272EDC_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
+    ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",

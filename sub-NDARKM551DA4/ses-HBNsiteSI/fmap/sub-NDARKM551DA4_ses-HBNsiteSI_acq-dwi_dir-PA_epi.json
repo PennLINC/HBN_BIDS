@@ -27,7 +27,9 @@
         "ND"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [],
+    "IntendedFor": [
+        "ses-HBNsiteSI/dwi/sub-NDARKM551DA4_ses-HBNsiteSI_acq-64dir_dwi.nii.gz"
+    ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 1.5,
     "Manufacturer": "Siemens",

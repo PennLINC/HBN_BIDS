@@ -13,12 +13,12 @@
     "EffectiveEchoSpacing": 0.00049999,
     "FlipAngle": 90,
     "ImageOrientationPatientDICOM": [
-        0.999398,
-        -0.00435074,
-        -0.0344215,
-        1.9246e-09,
-        0.992106,
-        -0.125398
+        1,
+        0,
+        0,
+        0,
+        0.996779,
+        -0.0801989
     ],
     "ImageType": [
         "ORIGINAL",
@@ -56,27 +56,27 @@
     "ReceiveCoilName": "Head_32",
     "ReconMatrixPE": 84,
     "RepetitionTime": 5.301,
-    "SAR": 0.361523,
+    "SAR": 0.361706,
     "ScanOptions": "FS",
     "ScanningSequence": "EP",
     "SequenceName": "epse2d1_84",
     "SequenceVariant": "SK",
     "SeriesDescription": "cmrr_fMRI_DistortionMap_PA",
     "ShimSetting": [
-        178,
-        -10383,
-        -5539,
-        642,
-        81,
-        218,
-        34,
-        -17
+        180,
+        -10426,
+        -5566,
+        684,
+        30,
+        131,
+        87,
+        36
     ],
     "SliceThickness": 2.4,
     "SliceTiming": [
         2.64,
         0,
-        2.73,
+        2.7275,
         0.0875,
         2.8175,
         0.1775,
@@ -117,7 +117,7 @@
         4.4,
         1.76,
         4.49,
-        1.85,
+        1.8475,
         4.5775,
         1.9375,
         4.665,
@@ -127,7 +127,7 @@
         4.84,
         2.2,
         4.93,
-        2.29,
+        2.2875,
         5.0175,
         2.3775,
         5.105,
@@ -138,5 +138,5 @@
     "SoftwareVersions": "syngo_MR_E11",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.0414992,
-    "TxRefAmp": 210.327
+    "TxRefAmp": 211.697
 }

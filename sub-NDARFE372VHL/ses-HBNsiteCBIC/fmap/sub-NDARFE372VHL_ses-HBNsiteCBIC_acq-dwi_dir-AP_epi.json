@@ -31,8 +31,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-NDARFE372VHL_ses-HBNsiteCBIC_acq-64dir_run-02_dwi.nii.gz",
-        "ses-HBNsiteCBIC/dwi/sub-NDARFE372VHL_ses-HBNsiteCBIC_acq-64dir_run-01_dwi.nii.gz"
+        "ses-HBNsiteCBIC/dwi/sub-NDARFE372VHL_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
@@ -54,26 +53,26 @@
     "ReceiveCoilName": "Head_32",
     "ReconMatrixPE": 104,
     "RepetitionTime": 3.32,
-    "SAR": 0.101005,
+    "SAR": 0.0965863,
     "ScanOptions": "FS",
     "ScanningSequence": "EP",
     "SequenceName": "ep_b0",
     "SequenceVariant": "SK_SS",
     "SeriesDescription": "cmrr_dMRI_DistortionMap_AP",
     "ShimSetting": [
-        237,
-        -10481,
-        -5471,
-        825,
-        53,
-        -156,
-        58,
-        -4
+        202,
+        -10385,
+        -5706,
+        666,
+        106,
+        -157,
+        -77,
+        57
     ],
     "SliceThickness": 1.8,
     "SoftwareVersions": "syngo_MR_E11",
     "SpacingBetweenSlices": 1.8,
     "TotalReadoutTime": 0.0401697,
-    "TxRefAmp": 213.705,
+    "TxRefAmp": 215.901,
     "VendorReportedEchoSpacing": 0.00078
 }

@@ -28,7 +28,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteRU/dwi/sub-NDARCG698LHB_ses-HBNsiteRU_acq-64dir_run-03_dwi.nii.gz"
+        "ses-HBNsiteRU/dwi/sub-NDARCG698LHB_ses-HBNsiteRU_acq-64dir_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
