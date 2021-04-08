@@ -31,7 +31,6 @@
     "IntendedFor": [
         "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-peer_run-1_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-peer_run-3_bold.nii.gz",
-        "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-movieTP_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-peer_run-2_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-movieDM_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDAREG930XPP_ses-HBNsiteCBIC_task-rest_run-2_bold.nii.gz"
@@ -137,5 +136,12 @@
     "SoftwareVersions": "syngo_MR_E11",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.0414992,
-    "TxRefAmp": 233.049
+    "TxRefAmp": 233.049,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.4000000953674316,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

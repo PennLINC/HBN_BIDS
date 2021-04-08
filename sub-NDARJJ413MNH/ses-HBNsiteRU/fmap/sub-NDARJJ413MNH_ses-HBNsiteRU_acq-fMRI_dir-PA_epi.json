@@ -26,7 +26,6 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteRU/func/sub-NDARJJ413MNH_ses-HBNsiteRU_task-movieDM_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARJJ413MNH_ses-HBNsiteRU_task-movieTP_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
@@ -129,5 +128,12 @@
     "SoftwareVersions": "syngo_MR_B19",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.04565,
-    "TxRefAmp": 328.419
+    "TxRefAmp": 328.419,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.3999998569488525,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

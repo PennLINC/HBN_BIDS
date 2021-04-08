@@ -27,9 +27,7 @@
         "ND"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [
-        "ses-HBNsiteRU/dwi/sub-NDARWK051GG4_ses-HBNsiteRU_acq-64dir_dwi.nii.gz"
-    ],
+    "IntendedFor": [],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
@@ -69,5 +67,12 @@
     "SoftwareVersions": "syngo_MR_B19",
     "SpacingBetweenSlices": 1.8,
     "TotalReadoutTime": 0.0427443,
-    "TxRefAmp": 302.211
+    "TxRefAmp": 302.211,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 1.798076868057251,
+    "VoxelSizeDim3": 1.8000025749206543,
+    "VoxelSizeDim2": 1.798076868057251,
+    "Dim1Size": 104,
+    "Dim2Size": 104,
+    "Dim3Size": 72
 }

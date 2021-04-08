@@ -31,8 +31,7 @@
     "IntendedFor": [
         "ses-HBNsiteCUNY/func/sub-NDARTB003FDD_ses-HBNsiteCUNY_task-peer_run-1_bold.nii.gz",
         "ses-HBNsiteCUNY/func/sub-NDARTB003FDD_ses-HBNsiteCUNY_task-movieDM_bold.nii.gz",
-        "ses-HBNsiteCUNY/func/sub-NDARTB003FDD_ses-HBNsiteCUNY_task-movieTP_bold.nii.gz",
-        "ses-HBNsiteCUNY/func/sub-NDARTB003FDD_ses-HBNsiteCUNY_task-rest_run-1_bold.nii.gz"
+        "ses-HBNsiteCUNY/func/sub-NDARTB003FDD_ses-HBNsiteCUNY_task-movieTP_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
@@ -135,5 +134,12 @@
     "SoftwareVersions": "syngo_MR_E11",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.0414992,
-    "TxRefAmp": 222.913
+    "TxRefAmp": 222.913,
+    "Obliquity": "False",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.3999998569488525,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

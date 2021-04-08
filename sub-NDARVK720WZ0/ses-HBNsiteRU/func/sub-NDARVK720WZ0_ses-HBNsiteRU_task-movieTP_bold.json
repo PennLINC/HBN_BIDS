@@ -129,5 +129,13 @@
     "SpacingBetweenSlices": 2.4,
     "TaskName": "movieTP",
     "TotalReadoutTime": 0.0481411,
-    "TxRefAmp": 307.005
+    "TxRefAmp": 307.005,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.4285714626312256,
+    "VoxelSizeDim3": 2.4000000953674316,
+    "VoxelSizeDim2": 2.4285714626312256,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60,
+    "NumVolumes": 250
 }

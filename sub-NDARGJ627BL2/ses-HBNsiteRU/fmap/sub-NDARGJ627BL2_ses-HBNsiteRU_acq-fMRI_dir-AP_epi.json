@@ -27,7 +27,6 @@
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
         "ses-HBNsiteRU/func/sub-NDARGJ627BL2_ses-HBNsiteRU_task-rest_run-2_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARGJ627BL2_ses-HBNsiteRU_task-movieDM_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARGJ627BL2_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARGJ627BL2_ses-HBNsiteRU_task-rest_run-1_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARGJ627BL2_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz"
@@ -132,5 +131,12 @@
     "SoftwareVersions": "syngo_MR_B19",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.04565,
-    "TxRefAmp": 322.972
+    "TxRefAmp": 322.972,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.3999998569488525,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

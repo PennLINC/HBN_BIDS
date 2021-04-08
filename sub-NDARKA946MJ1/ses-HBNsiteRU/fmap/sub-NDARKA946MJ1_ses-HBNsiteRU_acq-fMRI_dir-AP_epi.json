@@ -25,9 +25,7 @@
         "MOSAIC"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [
-        "ses-HBNsiteRU/func/sub-NDARKA946MJ1_ses-HBNsiteRU_task-rest_run-1_bold.nii.gz"
-    ],
+    "IntendedFor": [],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
@@ -128,5 +126,12 @@
     "SoftwareVersions": "syngo_MR_B19",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.04565,
-    "TxRefAmp": 329.827
+    "TxRefAmp": 329.827,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.4000000953674316,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

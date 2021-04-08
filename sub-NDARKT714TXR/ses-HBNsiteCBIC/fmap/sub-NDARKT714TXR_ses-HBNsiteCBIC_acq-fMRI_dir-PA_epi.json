@@ -137,5 +137,12 @@
     "SoftwareVersions": "syngo_MR_E11",
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.0414992,
-    "TxRefAmp": 217.116
+    "TxRefAmp": 217.116,
+    "Obliquity": "False",
+    "VoxelSizeDim1": 2.404761791229248,
+    "VoxelSizeDim3": 2.3999998569488525,
+    "VoxelSizeDim2": 2.404761791229248,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60
 }

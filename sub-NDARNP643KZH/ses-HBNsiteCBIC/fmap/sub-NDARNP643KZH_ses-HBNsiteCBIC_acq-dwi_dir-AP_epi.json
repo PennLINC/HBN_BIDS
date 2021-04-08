@@ -76,5 +76,12 @@
     "Modality": "MR",
     "IntendedFor": [
         "ses-HBNsiteCBIC/dwi/sub-NDARNP643KZH_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
-    ]
+    ],
+    "Obliquity": "False",
+    "VoxelSizeDim1": 1.798076868057251,
+    "VoxelSizeDim3": 1.7999992370605469,
+    "VoxelSizeDim2": 1.798076868057251,
+    "Dim1Size": 104,
+    "Dim2Size": 104,
+    "Dim3Size": 72
 }

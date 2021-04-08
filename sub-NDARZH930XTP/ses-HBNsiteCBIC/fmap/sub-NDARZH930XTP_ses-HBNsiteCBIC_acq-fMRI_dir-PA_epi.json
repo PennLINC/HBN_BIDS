@@ -27,10 +27,7 @@
         "ND"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [
-        "ses-HBNsiteCBIC/func/sub-NDARZH930XTP_ses-HBNsiteCBIC_task-movieTP_bold.nii.gz",
-        "ses-HBNsiteCBIC/func/sub-NDARZH930XTP_ses-HBNsiteCBIC_task-movieDM_bold.nii.gz"
-    ],
+    "IntendedFor": [],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
     "Manufacturer": "Siemens",
@@ -71,5 +68,12 @@
     "SpacingBetweenSlices": 2.4,
     "TotalReadoutTime": 0.045391,
     "TxRefAmp": 214.958,
-    "VendorReportedEchoSpacing": 0.00051
+    "VendorReportedEchoSpacing": 0.00051,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.4000000953674316,
+    "VoxelSizeDim3": 2.400003671646118,
+    "VoxelSizeDim2": 2.4000000953674316,
+    "Dim1Size": 90,
+    "Dim2Size": 90,
+    "Dim3Size": 60
 }

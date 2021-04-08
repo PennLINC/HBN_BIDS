@@ -129,5 +129,13 @@
     "SpacingBetweenSlices": 2.4,
     "TaskName": "peer",
     "TotalReadoutTime": 0.0481411,
-    "TxRefAmp": 320.516
+    "TxRefAmp": 320.516,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.4285712242126465,
+    "VoxelSizeDim3": 2.3999998569488525,
+    "VoxelSizeDim2": 2.4285714626312256,
+    "Dim1Size": 84,
+    "Dim2Size": 84,
+    "Dim3Size": 60,
+    "NumVolumes": 135
 }

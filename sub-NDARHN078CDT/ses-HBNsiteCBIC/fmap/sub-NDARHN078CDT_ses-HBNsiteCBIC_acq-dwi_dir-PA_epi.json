@@ -74,7 +74,11 @@
     "SoftwareVersions": "syngo_MR_E11",
     "StationName": "MRTRIO3TX72",
     "Modality": "MR",
-    "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-NDARHN078CDT_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
-    ]
+    "Obliquity": "False",
+    "VoxelSizeDim1": 1.798076868057251,
+    "VoxelSizeDim3": 1.8000030517578125,
+    "VoxelSizeDim2": 1.798076868057251,
+    "Dim1Size": 104,
+    "Dim2Size": 104,
+    "Dim3Size": 72
 }

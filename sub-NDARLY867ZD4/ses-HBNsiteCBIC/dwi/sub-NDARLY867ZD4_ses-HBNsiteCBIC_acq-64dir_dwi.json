@@ -147,5 +147,13 @@
     "SpacingBetweenSlices": 1.8,
     "TotalReadoutTime": 0.0401697,
     "TxRefAmp": 235.19,
-    "VendorReportedEchoSpacing": 0.00078
+    "VendorReportedEchoSpacing": 0.00078,
+    "Obliquity": "False",
+    "VoxelSizeDim1": 1.798076868057251,
+    "VoxelSizeDim3": 1.8000000715255737,
+    "VoxelSizeDim2": 1.798076868057251,
+    "Dim1Size": 104,
+    "Dim2Size": 104,
+    "Dim3Size": 72,
+    "NumVolumes": 129
 }

@@ -123,5 +123,13 @@
     "SpacingBetweenSlices": 2.5,
     "TaskName": "rest",
     "TotalReadoutTime": 0.04235,
-    "TxRefAmp": 236.302
+    "TxRefAmp": 236.302,
+    "Obliquity": "False",
+    "VoxelSizeDim1": 2.461538553237915,
+    "VoxelSizeDim3": 2.5,
+    "VoxelSizeDim2": 2.461538553237915,
+    "Dim1Size": 78,
+    "Dim2Size": 78,
+    "Dim3Size": 54,
+    "NumVolumes": 420
 }

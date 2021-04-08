@@ -62,5 +62,12 @@
     ],
     "SliceThickness": 0.8,
     "SoftwareVersions": "syngo_MR_E11",
-    "TxRefAmp": 222.539
+    "TxRefAmp": 222.539,
+    "Obliquity": "False",
+    "VoxelSizeDim1": 0.7999979257583618,
+    "VoxelSizeDim3": 0.7999999523162842,
+    "VoxelSizeDim2": 0.8000000715255737,
+    "Dim1Size": 224,
+    "Dim2Size": 320,
+    "Dim3Size": 320
 }

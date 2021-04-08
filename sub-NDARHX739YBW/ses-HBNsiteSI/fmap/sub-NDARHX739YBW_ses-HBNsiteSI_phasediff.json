@@ -63,5 +63,12 @@
     "SliceThickness": 3,
     "SoftwareVersions": "syngo_MR_B17",
     "SpacingBetweenSlices": 3,
-    "TxRefAmp": 228.099
+    "TxRefAmp": 228.099,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 3.0,
+    "VoxelSizeDim3": 2.9999983310699463,
+    "VoxelSizeDim2": 3.0,
+    "Dim1Size": 64,
+    "Dim2Size": 64,
+    "Dim3Size": 42
 }

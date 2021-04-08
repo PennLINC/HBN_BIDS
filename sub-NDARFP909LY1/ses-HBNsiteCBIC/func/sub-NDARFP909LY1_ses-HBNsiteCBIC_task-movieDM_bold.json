@@ -138,5 +138,13 @@
     "SpacingBetweenSlices": 2.4,
     "TaskName": "movieDM",
     "TotalReadoutTime": 0.0445004,
-    "TxRefAmp": 217.716
+    "TxRefAmp": 217.716,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 2.4000000953674316,
+    "VoxelSizeDim3": 2.4000000953674316,
+    "VoxelSizeDim2": 2.4000000953674316,
+    "Dim1Size": 90,
+    "Dim2Size": 90,
+    "Dim3Size": 66,
+    "NumVolumes": 752
 }

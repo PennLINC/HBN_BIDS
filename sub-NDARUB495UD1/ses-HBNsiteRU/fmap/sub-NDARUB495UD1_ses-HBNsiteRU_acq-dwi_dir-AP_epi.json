@@ -69,5 +69,12 @@
     "SoftwareVersions": "syngo_MR_B19",
     "SpacingBetweenSlices": 1.8,
     "TotalReadoutTime": 0.0427443,
-    "TxRefAmp": 261.282
+    "TxRefAmp": 261.282,
+    "Obliquity": "True",
+    "VoxelSizeDim1": 1.8461538553237915,
+    "VoxelSizeDim3": 1.7999933958053589,
+    "VoxelSizeDim2": 1.8461538553237915,
+    "Dim1Size": 104,
+    "Dim2Size": 104,
+    "Dim3Size": 72
 }
