@@ -27,9 +27,7 @@
         "ND"
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
-    "IntendedFor": [
-        "ses-HBNsiteSI/dwi/sub-NDARDT800YVF_ses-HBNsiteSI_acq-64dir_dwi.nii.gz"
-    ],
+    "IntendedFor": [],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 1.5,
     "Manufacturer": "Siemens",
