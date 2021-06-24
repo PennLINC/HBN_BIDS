@@ -29,7 +29,7 @@
         "ses-HBNsiteRU/func/sub-NDARGN756ZYP_ses-HBNsiteRU_task-rest_run-2_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARGN756ZYP_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARGN756ZYP_ses-HBNsiteRU_task-rest_run-1_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARGN756ZYP_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz"
+        "ses-HBNsiteRU/func/sub-NDARGN756ZYP_ses-HBNsiteRU_task-peer_acq-VARIANTEchoTimeEffectiveEchoSpacingPhaseEncodingDirectionTotalReadoutTime_run-1_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

@@ -27,9 +27,9 @@
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
         "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-rest_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-movieDM_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz"
+        "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARYR150UDP_ses-HBNsiteRU_task-rest_acq-VARIANTEchoTimeEffectiveEchoSpacingPhaseEncodingDirectionTotalReadoutTime_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

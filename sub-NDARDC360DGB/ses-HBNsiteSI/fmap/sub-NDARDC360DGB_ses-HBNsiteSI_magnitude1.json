@@ -22,7 +22,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteSI/func/sub-NDARDC360DGB_ses-HBNsiteSI_task-rest_bold.nii.gz"
+        "ses-HBNsiteSI/func/sub-NDARDC360DGB_ses-HBNsiteSI_task-rest_acq-VARIANTObliquity_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 1.5,

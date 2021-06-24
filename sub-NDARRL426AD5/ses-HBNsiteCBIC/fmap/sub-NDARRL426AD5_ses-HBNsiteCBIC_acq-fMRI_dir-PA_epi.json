@@ -32,8 +32,8 @@
         "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-rest_run-2_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-peer_run-2_bold.nii.gz",
         "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-movieDM_bold.nii.gz",
-        "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-rest_run-1_bold.nii.gz",
-        "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-peer_run-1_bold.nii.gz"
+        "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-peer_run-1_bold.nii.gz",
+        "ses-HBNsiteCBIC/func/sub-NDARRL426AD5_ses-HBNsiteCBIC_task-rest_acq-VARIANTObliquity_run-1_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

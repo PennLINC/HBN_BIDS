@@ -28,7 +28,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteSI/dwi/sub-NDARHJ523XGB_ses-HBNsiteSI_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteSI/dwi/sub-NDARHJ523XGB_ses-HBNsiteSI_acq-64dirVARIANTObliquity_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 1.5,

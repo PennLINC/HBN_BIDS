@@ -31,7 +31,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "ROW",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-NDARXF294ME0_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteCBIC/dwi/sub-NDARXF294ME0_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

@@ -31,7 +31,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-NDARMY873XG5_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteCBIC/dwi/sub-NDARMY873XG5_ses-HBNsiteCBIC_acq-64dirVARIANTVoxelSizeDim1VoxelSizeDim2_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

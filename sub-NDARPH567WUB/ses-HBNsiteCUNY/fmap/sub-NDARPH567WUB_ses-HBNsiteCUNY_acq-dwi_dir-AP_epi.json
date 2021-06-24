@@ -31,7 +31,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCUNY/dwi/sub-NDARPH567WUB_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteCUNY/dwi/sub-NDARPH567WUB_ses-HBNsiteCUNY_acq-64dirVARIANTObliquity_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

@@ -26,9 +26,9 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteRU/func/sub-NDARNB674VMY_ses-HBNsiteRU_task-movieTP_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARNB674VMY_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARNB674VMY_ses-HBNsiteRU_task-movieDM_bold.nii.gz"
+        "ses-HBNsiteRU/func/sub-NDARNB674VMY_ses-HBNsiteRU_task-movieTP_acq-VARIANTNumVolumes_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARNB674VMY_ses-HBNsiteRU_task-movieDM_acq-VARIANTNumVolumes_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

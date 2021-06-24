@@ -26,12 +26,12 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-movieDM_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-rest_run-1_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-rest_run-2_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_run-3_bold.nii.gz"
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_acq-VARIANTObliquity_run-1_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_acq-VARIANTObliquity_run-3_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-movieDM_acq-VARIANTObliquity_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-rest_acq-VARIANTObliquity_run-1_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-rest_acq-VARIANTObliquity_run-2_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARPL306LC6_ses-HBNsiteRU_task-peer_acq-VARIANTObliquity_run-2_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,

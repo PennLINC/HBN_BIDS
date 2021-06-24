@@ -29,7 +29,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-NDARAV519RND_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteCBIC/dwi/sub-NDARAV519RND_ses-HBNsiteCBIC_acq-ABCD64dirVARIANTMultibandAccelerationFactor_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
