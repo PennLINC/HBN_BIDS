@@ -26,12 +26,12 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-rest_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-peer_run-1_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-movieTP_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-peer_run-2_bold.nii.gz",
         "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-peer_run-3_bold.nii.gz",
-        "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-movieDM_bold.nii.gz"
+        "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-movieDM_bold.nii.gz",
+        "ses-HBNsiteRU/func/sub-NDARJW315BUA_ses-HBNsiteRU_task-rest_acq-VARIANTNumVolumes_run-1_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
