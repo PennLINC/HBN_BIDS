@@ -29,7 +29,11 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/func/sub-NDARVN280JTN_ses-HBNsiteCBIC_task-rest_run-1_bold.nii.gz"
+        "ses-HBNsiteCBIC/func/sub-ndarvn280jtn_ses-HBNsiteCBIC_task-peer_run-3_bold.nii.gz",
+        "ses-HBNsiteCBIC/func/sub-ndarvn280jtn_ses-HBNsiteCBIC_task-movieTP_bold.nii.gz",
+        "ses-HBNsiteCBIC/func/sub-ndarvn280jtn_ses-HBNsiteCBIC_task-rest_run-1_bold.nii.gz",
+        "ses-HBNsiteCBIC/func/sub-ndarvn280jtn_ses-HBNsiteCBIC_task-movieDM_bold.nii.gz",
+        "ses-HBNsiteCBIC/func/sub-ndarvn280jtn_ses-HBNsiteCBIC_task-peer_run-1_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
