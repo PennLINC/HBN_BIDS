@@ -31,7 +31,7 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "COL",
     "IntendedFor": [
-        "ses-HBNsiteCBIC/dwi/sub-ndarvn280jtn_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
+        "ses-HBNsiteCBIC/dwi/sub-NDARVN280JTN_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
@@ -42,12 +42,12 @@
     "PartialFourier": 1,
     "PatientPosition": "HFS",
     "PercentPhaseFOV": 100,
-    "PhaseEncodingDirection": "j",
+    "PhaseEncodingDirection": "j-",
     "PhaseEncodingSteps": 103,
     "PhaseResolution": 1,
     "PixelBandwidth": 1455,
     "ProcedureStepDescription": "CMI_HBN-CBIC",
-    "ProtocolName": "cmrr_dMRI_DistortionMap_PA",
+    "ProtocolName": "cmrr_dMRI_DistortionMap_AP",
     "PulseSequenceDetails": "%CustomerSeq%_cmrr_mbep2d_diff",
     "ReceiveCoilActiveElements": "HEA;HEP",
     "ReceiveCoilName": "Head_32",
@@ -58,7 +58,7 @@
     "ScanningSequence": "EP",
     "SequenceName": "ep_b0",
     "SequenceVariant": "SK_SS",
-    "SeriesDescription": "cmrr_dMRI_DistortionMap_PA",
+    "SeriesDescription": "cmrr_dMRI_DistortionMap_AP",
     "ShimSetting": [
         217,
         -10489,
